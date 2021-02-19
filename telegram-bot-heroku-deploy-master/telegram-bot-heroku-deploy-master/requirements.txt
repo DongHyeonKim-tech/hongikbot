@@ -1,0 +1,11 @@
+future>=0.16.0
+certifi
+tornado>=5.1
+cryptography
+python-telegram-bot
+requests
+bs4
+beautifulsoup4
+pandas
+pymysql
+html5lib
